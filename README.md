@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew Tap repository
+Central homebrew tap repository server for all formulas & casks
 
 | Formula   | Date Added   |
 | --------  | -------      |
